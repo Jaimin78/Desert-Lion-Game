@@ -8,7 +8,7 @@ body{
 }
 .GameContainer{
     position: relative;
-    background-image: url(/img/back.jpg);
+    background-image: url(https://jaimin78.github.io/Desert-Lion-Game/img/back.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -42,7 +42,7 @@ body{
 .track{
     height: 10vh;
     width: 800vw;
-    background-image: url(/img/track.png);
+    background-image: url(https://jaimin78.github.io/Desert-Lion-Game/img/track.png);
     background-repeat: repeat-x;
     position: absolute;
     bottom: 0px;
@@ -50,7 +50,7 @@ body{
 }
 
 .Camel {
-    background-image: url(/img/camel.gif);
+    background-image: url(https://jaimin78.github.io/Desert-Lion-Game/img/camel.gif);
     background-repeat: no-repeat;
     background-size: cover;
     /* width: 186px;
@@ -63,7 +63,7 @@ body{
 }
 
 .Obstacle {
-    background-image: url(/img/lion.gif);
+    background-image: url(https://jaimin78.github.io/Desert-Lion-Game/img/lion.gif);
     background-repeat: no-repeat;
     background-size: cover;
     /* width: 166px;
